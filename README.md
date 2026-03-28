@@ -1,6 +1,6 @@
 ﻿# Forex Currency Exchange Prediction
 
-This is time-series forecasting application for predicting future currency exchange rates.  
+This is a time-series forecasting application for predicting future currency exchange rates.  
 It selects the best-performing model for each currency (out of ARIMA, AutoTS, Prophet, XGBoost and just naive one)
 and shows prediction using the Streamlit UI.
 
